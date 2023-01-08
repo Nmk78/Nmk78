@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NayMyo ThuraKyaw</h1>
+<h1 align="center" margin=20>Hi 👋, I'm NayMyo ThuraKyaw</h1>
 <h3 align="center">Trying To Be A Web Developer</h3>
 
 - 🌱 I’m currently learning **React**
