@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on my portfolio<br>👯 I’m looking to collaborate on web development<br>🌱 I’m currently learning React Native<br>💬 Ask me about Javascript<br>⚡ Fun fact I'm kinda of jack of all trades for now
 
-![](https://naymyokhant.vercel.app/images/cover.jpg)
+![](https://naymyokhant.vercel.app/images/cover.webp)
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nmk135) 
 
